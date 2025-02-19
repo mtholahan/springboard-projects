@@ -7,7 +7,7 @@ Welcome to my Springboard Data Engineering Bootcamp project repository. This is 
 | Project | Description | Repository Link |
 |---------|------------|----------------|
 | **Capstone Project** | Exploring musical diversity in movies by integrating MusicBrainz and IMDb data. | [GitHub Repo](https://github.com/mtholahan/Springboard-Capstone) |
-| **Python OOP Microproject** | Object-oriented programming exercise for a faux banking system. | [GitHub Repo](https://github.com/mtholahan/Faux-Banking-System) |
+| **Python OOP Microproject** | Object-oriented programming exercise for a faux banking system. | [GitHub Repo](https://github.com/mtholahan/FauxBankingSystem) |
 
 ## 📝 Notes & Documentation
 You can find additional notes and documentation in the [docs](./docs) folder.
