@@ -3,7 +3,7 @@
 **Project:** Banking System Simulation  
 **Tech:** Python (OOP, CLI-based)  
 **Time Estimate:** 3–5 hours  
-**Full Rubric PDF:** [📄 View PDF](./pdf/python_oop_rubric.pdf)
+**Full Rubric PDF:** [📄 View PDF](./pdf/Python_OOP_Mini_Project Rubric.pdf)
 
 ## 🎯 Objective
 Design a simplified banking system using object-oriented programming concepts in Python.
