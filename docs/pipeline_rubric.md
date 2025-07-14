@@ -3,7 +3,7 @@
 **Project:** Event Ticket System  
 **Tech:** Python, MySQL  
 **Time Estimate:** 3–5 hours  
-**Full Rubric PDF:** [📄 View PDF](./pdf/pipeline_rubric.pdf)
+**Full Rubric PDF:** [📄 View PDF](./pdf/Pipeline_Mini-Project_Event_Ticket_System Rubric.pdf)
 
 ## 🎯 Objective
 Design and implement an ETL pipeline to ingest third-party event ticket sales data from a CSV file into a relational database using Python and MySQL.
