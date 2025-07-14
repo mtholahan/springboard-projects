@@ -3,7 +3,7 @@
 **Project:** Euro Cup 2016 Data Analysis  
 **Tech:** MySQL or PostgreSQL  
 **Time Estimate:** 3–5 hours  
-**Full Rubric PDF:** [📄 View PDF](./pdf/eurocup_sql_rubric.pdf)
+**Full Rubric PDF:** [📄 View PDF](./pdf/Advanced_SQL_Mini-Project_Euro_Cup_Rubric.pdf)
 
 ---
 
