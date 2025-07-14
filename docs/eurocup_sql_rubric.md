@@ -3,7 +3,7 @@
 **Project:** Euro Cup 2016 Data Analysis  
 **Tech:** MySQL or PostgreSQL  
 **Time Estimate:** 3–5 hours  
-**Full Rubric PDF:** [📄 View PDF](./pdf/Advanced_SQL_Mini-Project_Euro_Cup_Rubric.pdf)
+**Full Rubric PDF:** [📄 View PDF](./pdf/eurocup_sql_rubric.pdf)
 
 ---
 
@@ -22,7 +22,6 @@ Query and analyze match, player, and referee data from the UEFA Euro 2016 datase
   - Subqueries
   - Aggregations
   - Filtering and sorting
-- Apply proper SQL naming conventions and modular query design
 
 ---
 
@@ -43,11 +42,5 @@ Query and analyze match, player, and referee data from the UEFA Euro 2016 datase
 
 - Individual `.sql` scripts for each solution  
 - Use naming format:  
-  `sql_q<question number>_sol.sql`  
-  *(e.g., `sql_q1_sol.sql`, `sql_q15_sol.sql`)*
-
+  `sql_q<question number>_sol.sql` (e.g., `sql_q1_sol.sql`)
 - Optional README describing your database setup and assumptions
-
----
-
-🎓 *This project emphasizes SQL fluency, schema navigation, and precise multi-table query construction.*
