@@ -15,7 +15,7 @@ Each project is stored in its own GitHub repo and includes Python code, SQL scri
 | **Euro Cup SQL Project** | Advanced MySQL queries and optimization on Euro 2016 dataset. | [GitHub Repo](https://github.com/mtholahan/euro-cup-sql-project) |
 | **SQL Tuning Project** | Advance PostgreSQL query tuning with a DBLP extract. | [GitHub Repo](https://github.com/mtholahan/SQL_Tuning)
 | **Pipeline Mini-Project** | ETL pipeline that loads ticket sales data into MySQL using Python and custom loaders. | [GitHub Repo](https://github.com/mtholahan/data-pipeline-ticket-sales) |
-| **Azure Mini Project: DataBricks Lab | A Databricks-based PySpark lab that analyzes loan, credit, and transaction data to reinforce distributed data processing skills in the Springboard Data Engineering Boot Camp.||
+| **Azure Mini Project: DataBricks Lab | A Databricks-based PySpark lab that analyzes loan, credit, and transaction data to reinforce distributed data processing skills in the Springboard Data Engineering Boot Camp.| [GitHub Repo](https://github.com/mtholahan/azure-mini-project-01)|
 
 ---
 
@@ -23,7 +23,7 @@ Each project is stored in its own GitHub repo and includes Python code, SQL scri
 
 Project instructions, rubrics, architecture notes, and supporting materials are stored in the [`docs/`](./docs) folder.  
 
-- 🧾 Rubrics for mini-projects  
+- 🧾 Rubrics for mini-projects
 - 🧱 Data flow or schema diagrams  
 - 📈 Results, charts, and supporting visuals  
 - 🛠️ Internal notes and planning files
