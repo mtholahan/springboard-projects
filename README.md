@@ -7,6 +7,7 @@ Each project is stored in its own GitHub repo and includes Python code, SQL scri
 ---
 
 ## 📌 Projects
+<!-- PROJECT_TABLE_START -->
 
 | Project | Description | Repository Link |
 |---------|-------------|-----------------|
@@ -17,7 +18,7 @@ Each project is stored in its own GitHub repo and includes Python code, SQL scri
 | **Pipeline Mini-Project** | ETL pipeline that loads ticket sales data into MySQL using Python and custom loaders. | [GitHub Repo](https://github.com/mtholahan/data-pipeline-mini-project) |
 | **Azure Mini Project DataBricks Lab** | A Databricks-based PySpark lab that analyzes loan, credit, and transaction data to reinforce distributed data processing skills in the Springboard Data Engineering Boot Camp.| [GitHub Repo](https://github.com/mtholahan/azure-mini-project-01)|
 | Apache Spark Mini Project | Analyze vehicle post-sales history using Apache Spark to generate accident reports by make and year. Refactored from a legacy MapReduce project to demonstrate Spark’s transformation and aggregation power. | [GitHub Repo](https://github.com/mtholahan/spark-mini-project) |
-
+<!-- PROJECT_TABLE_END -->
 ---
 
 ## 📂 Documentation
