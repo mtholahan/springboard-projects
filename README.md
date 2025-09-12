@@ -60,19 +60,15 @@ The table below is auto-generated from my SQL Server progress tracker (`tblMiniP
 
 ### 🛠️ Skills & Tools
 
-- ### 🛠️ Skills & Tools
-
-  ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-  ![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
-  ![Azure](https://img.shields.io/badge/-Azure-0089D6?style=flat&logo=microsoftazure&logoColor=white)
-  ![Airflow](https://img.shields.io/badge/-Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white)
-  ![Spark](https://img.shields.io/badge/-Spark-E25A1C?style=flat&logo=apachespark&logoColor=white)
-  ![Kafka](https://img.shields.io/badge/-Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
-  ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-  ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-  ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
-
-  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
+![Azure](https://img.shields.io/badge/-Azure-0089D6?style=flat&logo=microsoftazure&logoColor=white)
+![Airflow](https://img.shields.io/badge/-Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white)
+![Spark](https://img.shields.io/badge/-Spark-E25A1C?style=flat&logo=apachespark&logoColor=white)
+![Kafka](https://img.shields.io/badge/-Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 
 > Tools used in real projects: data pipelines, cloud orchestration, SQL optimization, and dashboarding.
 
@@ -80,6 +76,6 @@ The table below is auto-generated from my SQL Server progress tracker (`tblMiniP
 
 ### 📬 Let’s Connect
 
-📧 Reach me on [LinkedIn](https://www.linkedin.com/in/mark-holahan-data-devotee/)  
-💼 Portfolio generated with custom [Python automation](https://github.com/yourusername/springboard-projects)  
+📧 Reach me on [LinkedIn](https://www.linkedin.com)  
+💼 Portfolio generated with custom [Python automation](https://github.com/mtholahan/springboard-projects/blob/main/scripts/update_readme.py)  
 🧠 Ask me about boot camp time tracking, SQL optimization, or orchestration frameworks!
