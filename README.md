@@ -1,12 +1,29 @@
-# Springboard Projects 🚀
+## 📊 Springboard Data Engineering Portfolio
 
-Welcome to my Springboard Data Engineering Bootcamp project repository. This is a meta-repo that tracks and links out to all individual projects completed during the program.
+Welcome! I'm a data engineer trained via the [Springboard Data Engineering Bootcamp](https://www.springboard.com) with hands-on projects across Azure, SQL, Python, Airflow, and more.
 
-Each project is stored in its own GitHub repo and includes Python code, SQL scripts, ETL workflows, and documentation.
+I build robust, scalable data pipelines and solutions that bring order to complex data environments — ready for production and performance.
 
 ---
 
-## 📌 Projects
+### 🔥 Featured Projects
+
+<!-- You can pin a few of these manually to spotlight key work -->
+
+- **Azure ETL Pipeline with Databricks & Airflow**  
+  Built an end-to-end batch ETL pipeline on Azure with PySpark, orchestrated via Prefect. Used Delta Lake format and scheduled jobs via Azure Data Factory.  
+  *Tech: Azure, PySpark, Delta Lake, Prefect, ADF*
+
+- **Kafka Streaming Pipeline**  
+  Real-time data ingestion using Kafka topics, Spark Structured Streaming, and a PostgreSQL sink with backpressure handling.  
+  *Tech: Kafka, Spark, PostgreSQL, Docker*
+
+---
+
+### 🚀 Project Timeline
+
+The table below is auto-generated from my SQL Server progress tracker (`tblMiniProjectProgress`) via a custom Python workflow.
+
 <!-- PROJECT_TABLE_START -->
 | Project | Description | Repository Link | Last Update |
 |---------|-------------|-----------------|-------------|
@@ -23,25 +40,56 @@ Each project is stored in its own GitHub repo and includes Python code, SQL scri
 | PostgreSQL Mini Project | Analyzed EuroCup 2016 data with advanced SQL queries. Imported CSV datasets into MySQL, designed schema with match, player, and referee details, and implemented queries covering match outcomes, penalty shootouts, player stats, bookings, substitutions, and referee activity to explore tournament dynamics. | [GitHub Repo](https://github.com/mtholahan/eurocup-sql-project) | 03/08/2025 |
 | Python OOP Mini Project | Implemented a simplified banking system in Python using OOP principles. Modeled customers, accounts, employees, and services such as loans and credit cards. Applied PEP-8 style, logging, and exception handling, with UML-based design and a command-line interface for deposits, withdrawals, and account management. | [GitHub Repo](https://github.com/mtholahan/faux-banking-system) | 02/13/2025 |
 <!-- PROJECT_TABLE_END -->
----
-
-## 📂 Documentation
-
-Project instructions, rubrics, architecture notes, and supporting materials are stored in the [`docs/`](./docs) folder.  
-
-- 🧾 Rubrics for mini-projects
-- 🧱 Data flow or schema diagrams  
-- 📈 Results, charts, and supporting visuals  
-- 🛠️ Internal notes and planning files
-
-> All files are organized to provide clear insight into project requirements and implementation details.
 
 ---
 
-## 🎯 Goals
+### 🏷️ Tags
 
-- Apply real-world data engineering skills in Python, SQL, and cloud platforms  
-- Build a technical portfolio with end-to-end project work  
-- Document my learning journey in a way that’s transparent and reviewer-friendly
+`#SQL` `#Azure` `#Airflow` `#Spark` `#Kafka` `#DataPipeline` `#ETL` `#DataEngineering` `#Monitoring` `#Streaming` `#Automation`
 
-Stay tuned for updates! 🚀
+---
+
+### 📚 Bootcamp Summary
+
+- 📅 30+ weeks of guided, project-based curriculum  
+- ✏️ 20+ mini-projects + 1 final capstone  
+- 🌐 Focus: cloud computing, big data, orchestration, performance optimization  
+- ✅ Verified by mentor checkpoints and progress metrics
+
+---
+
+### 🛠️ Skills & Tools
+
+#### Text List (for fallback rendering)
+
+- Python (Pandas, NumPy, PySpark)
+- SQL (SQL Server, PostgreSQL, MySQL)
+- Microsoft Azure (Blob Storage, Data Factory, Databricks, Synapse)
+- Apache Airflow & Prefect
+- Apache Spark
+- Apache Kafka
+- Docker
+- Git & GitHub
+- Power BI
+
+#### Visual Badges (for GitHub and web rendering)
+
+![Python](assets/-Python-3776AB.svg+xml)
+![SQL Server](assets/-SQL Server-CC2927.svg+xml)
+![Azure](assets/-Azure-0089D6.svg+xml)
+![Airflow](assets/-Airflow-017CEE.svg+xml)
+![Spark](assets/-Spark-E25A1C.svg+xml)
+![Kafka](assets/-Kafka-231F20.svg+xml)
+![Docker](assets/-Docker-2496ED.svg+xml)
+![Git](assets/-Git-F05032.svg+xml)
+![Power BI](assets/-Power BI-F2C811.svg+xml)
+
+> Tools used in real projects: data pipelines, cloud orchestration, SQL optimization, and dashboarding.
+
+---
+
+### 📬 Let’s Connect
+
+📧 Reach me on [LinkedIn](https://www.linkedin.com)  
+💼 Portfolio generated with custom [Python automation](https://github.com/yourusername/springboard-projects)  
+🧠 Ask me about boot camp time tracking, SQL optimization, or orchestration frameworks!
