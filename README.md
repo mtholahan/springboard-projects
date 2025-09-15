@@ -79,3 +79,7 @@ The table below is auto-generated from my SQL Server progress tracker (`tblMiniP
 📧 Reach me on [LinkedIn](https://www.linkedin.com/in/mark-holahan-data-devotee/)  
 💼 Portfolio generated with custom [Python automation](https://github.com/mtholahan/springboard-projects/blob/main/scripts/update_readme.py)  
 🧠 Ask me about boot camp time tracking, SQL optimization, or orchestration frameworks!
+
+<!-- FOOTER_START -->
+*Generated automatically via Python from `AT_Springboard.dbo.tblMiniProjectProgress` on 09-14-2025 22:39:30*
+<!-- FOOTER_END -->
