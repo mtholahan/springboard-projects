@@ -52,7 +52,7 @@ The table below is auto-generated from my SQL Server progress tracker (`tblMiniP
 ### 📚 Bootcamp Summary
 
 - 📅 30+ weeks of guided, project-based curriculum  
-- ✏️ 20+ mini-projects + 1 final capstone  
+- ✏️ 11 mini-projects + 1 guided and 1 unguided capstone
 - 🌐 Focus: cloud computing, big data, orchestration, performance optimization  
 - ✅ Verified by mentor checkpoints and progress metrics
 
