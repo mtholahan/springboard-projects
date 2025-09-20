@@ -47,11 +47,11 @@ The table below is auto-generated from my SQL Server progress tracker (`tblMiniP
 ### 🛠️ Skills & Tools
 
 <!-- ICON_BLOCK_START -->
-<p>
+
 ![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Databricks](https://img.shields.io/badge/Databricks-EF3E42?style=for-the-badge&logo=databricks&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white) ![Logging](https://img.shields.io/badge/Logging-4B0082?style=for-the-badge)<br/>
 ![Monitoring](https://img.shields.io/badge/Monitoring-555555?style=for-the-badge&logo=prometheus&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)<br/>
 ![Spark](https://img.shields.io/badge/Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black) ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) ![UML](https://img.shields.io/badge/UML-000000?style=for-the-badge)
-</p>
+
 <!-- ICON_BLOCK_END -->
 
 > Tools used in real projects: data pipelines, cloud orchestration, SQL optimization, and dashboarding.
@@ -64,5 +64,5 @@ The table below is auto-generated from my SQL Server progress tracker (`tblMiniP
 🧠 Ask me about boot camp time tracking, SQL optimization, or orchestration frameworks!
 
 <!-- FOOTER_START -->
-*Generated automatically via Python on 09-20-2025 14:20:03*
+*Generated automatically via Python on 09-20-2025 14:22:18*
 <!-- FOOTER_END -->
