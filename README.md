@@ -6,21 +6,7 @@ I build robust, scalable data pipelines and solutions that bring order to comple
 
 ---
 
-### 🔥 Featured Projects
-
-<!-- You can pin a few of these manually to spotlight key work -->
-
-- **Azure ETL Pipeline with Databricks & Airflow**  
-  Built an end-to-end batch ETL pipeline on Azure with PySpark, orchestrated via Prefect. Used Delta Lake format and scheduled jobs via Azure Data Factory.  
-  *Tech: Azure, PySpark, Delta Lake, Prefect, ADF*
-
-- **Kafka Streaming Pipeline**  
-  Real-time data ingestion using Kafka topics, Spark Structured Streaming, and a PostgreSQL sink with backpressure handling.  
-  *Tech: Kafka, Spark, PostgreSQL, Docker*
-
----
-
-### 🚀 Project Timeline
+🚀 Project Timeline
 
 The table below is auto-generated from my SQL Server progress tracker (`tblMiniProjectProgress`) via a custom Python workflow.
 
@@ -78,5 +64,5 @@ The table below is auto-generated from my SQL Server progress tracker (`tblMiniP
 🧠 Ask me about boot camp time tracking, SQL optimization, or orchestration frameworks!
 
 <!-- FOOTER_START -->
-*Generated automatically via Python on 09-20-2025 14:07:14*
+*Generated automatically via Python on 09-20-2025 14:16:33*
 <!-- FOOTER_END -->
