@@ -60,15 +60,34 @@ The table below is auto-generated from my SQL Server progress tracker (`tblMiniP
 
 ### 🛠️ Skills & Tools
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
-![Azure](https://img.shields.io/badge/-Azure-0089D6?style=flat&logo=microsoftazure&logoColor=white)
-![Airflow](https://img.shields.io/badge/-Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white)
-![Spark](https://img.shields.io/badge/-Spark-E25A1C?style=flat&logo=apachespark&logoColor=white)
-![Kafka](https://img.shields.io/badge/-Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+<!-- ICON_BLOCK_START -->
+<p align="left">
+
+<a href="#"><img alt="Airflow" title="Airflow" src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white"/></a>
+<a href="#"><img alt="Azure" title="Azure" src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/></a>
+<a href="#"><img alt="Databricks" title="Databricks" src="https://img.shields.io/badge/Databricks-EF3E42?style=for-the-badge&logo=databricks&logoColor=white"/></a>
+<a href="#"><img alt="Docker" title="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/></a>
+<br/>
+
+<a href="#"><img alt="Kafka" title="Kafka" src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"/></a>
+<a href="#"><img alt="Logging" title="Logging" src="https://img.shields.io/badge/Logging-4B0082?style=for-the-badge"/></a>
+<a href="#"><img alt="Monitoring" title="Monitoring" src="https://img.shields.io/badge/Monitoring-555555?style=for-the-badge&logo=prometheus&logoColor=white"/></a>
+<a href="#"><img alt="MySQL" title="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/></a>
+<br/>
+
+<a href="#"><img alt="Jupyter Notebooks" title="Jupyter Notebooks" src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/></a>
+<a href="#"><img alt="PostgreSQL" title="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/></a>
+<a href="#"><img alt="PySpark" title="PySpark" src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/></a>
+<a href="#"><img alt="Python" title="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/></a>
+<br/>
+
+<a href="#"><img alt="Apache Spark" title="Apache Spark" src="https://img.shields.io/badge/Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black"/></a>
+<a href="#"><img alt="SQL" title="SQL" src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/></a>
+<a href="#"><img alt="UML Diagrams" title="UML Diagrams" src="https://img.shields.io/badge/UML-000000?style=for-the-badge"/></a>
+<br/>
+
+</p>
+<!-- ICON_BLOCK_END -->
 
 > Tools used in real projects: data pipelines, cloud orchestration, SQL optimization, and dashboarding.
 
@@ -80,5 +99,5 @@ The table below is auto-generated from my SQL Server progress tracker (`tblMiniP
 🧠 Ask me about boot camp time tracking, SQL optimization, or orchestration frameworks!
 
 <!-- FOOTER_START -->
-*Generated automatically via Python on 09-20-2025 11:06:14*
+*Generated automatically via Python on 09-20-2025 12:09:10*
 <!-- FOOTER_END -->
