@@ -167,3 +167,20 @@
 - spark
 - sql
 - uml
+
+## 2025-11-11 17:51:54
+- airflow
+- azure
+- databricks
+- docker
+- kafka
+- logging
+- monitoring
+- mysql
+- notebooks
+- postgresql
+- pyspark
+- python
+- spark
+- sql
+- uml
