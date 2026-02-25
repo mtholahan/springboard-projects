@@ -1,6 +1,6 @@
 ## 📊 Springboard Data Engineering Portfolio
 
-Welcome! I'm a data engineer trained via the [Springboard Data Engineering Bootcamp](https://www.springboard.com) with hands-on projects across Azure, SQL, Python, Airflow, and more.
+Welcome! I'm a data engineer trained via the Data Engineering Boot Camp with Washington University in St. Louis with hands-on projects across Azure, SQL, Python, Airflow, and more.
 
 I build robust, scalable data pipelines and solutions that bring order to complex data environments — ready for production and performance.
 
@@ -19,7 +19,7 @@ The table below is auto-generated from my SQL Server progress tracker (`tblMiniP
 | Apache Airflow Log Analyzer Mini Project | Built Apache Airflow DAGs to automate Yahoo Finance stock data ingestion, storage, and querying, then extended with a Python log analyzer to monitor execution errors. Demonstrates orchestration, scheduling, operator use, and pipeline monitoring. | [GitHub Repo](https://github.com/mtholahan/apache-airflow-mini-project) | 08/31/2025 |
 | Apache Spark Optimization Mini Project | Optimized PySpark jobs by analyzing query execution plans and rewriting transformations for efficiency. Applied techniques such as reducing shuffles, tuning partitions, selecting efficient operators, and choosing optimal data formats. Demonstrates performance tuning for large-scale Spark ETL workloads using Python and PySpark. | [GitHub Repo](https://github.com/mtholahan/apache-spark-optimization-mini-project) | 08/08/2025 |
 | Apache Spark Post Sales Redesign Mini Project | Redesigned a Hadoop MapReduce post-sales reporting system using Spark. Processed automobile incident data to add make/year attributes and aggregate accidents by vehicle. Implemented RDD transformations, groupByKey, and reduceByKey to generate reports efficiently, highlighting Spark’s performance advantage over MapReduce. | [GitHub Repo](https://github.com/mtholahan/apache-spark-post-sales-redesign-mini-project) | 08/05/2025 |
-| Azure Synaspe Analytics Mini Project | Built a data pipeline in Azure Synapse Analytics to load product data from Azure Data Lake into a dedicated SQL pool. Implemented data flow with inserts and upserts, handling schema drift and type 1 SCD updates, and orchestrated ingestion using Synapse Studio pipelines. | [GitHub Repo](https://github.com/mtholahan/azure-synaspe-analytics-mini-project) | 07/18/2025 |
+| Azure Synaspe Analytics Mini Project | Built a data pipeline in Azure Synapse Analytics to load product data from Azure Data Lake into a dedicated SQL pool. Implemented data flow with inserts and upserts, handling schema drift and type 1 SCD updates, and orchestrated ingestion using Synapse Studio pipelines. | [GitHub Repo](https://github.com/mtholahan/azure-synapse-analytics-mini-project) | 07/18/2025 |
 | Azure DataBricks Mini Project | Implemented a PySpark mini-project in Azure Databricks to ingest, query, and transform datasets. Built solutions using PySpark DataFrame syntax rather than SparkSQL, demonstrating data ingestion, transformations, and query patterns within notebooks submitted as part of the Springboard boot camp. | [GitHub Repo](https://github.com/mtholahan/azure-pyspark-databricks-mini-project) | 07/16/2025 |
 | MySQL Python Data Pipeline Mini Project | Developed a Python and SQL data pipeline for an event ticketing system. Designed a MySQL table schema, ingested CSV sales data via Python connectors, and implemented queries to analyze ticket popularity and sales trends, showcasing ETL and database integration skills. | [GitHub Repo](https://github.com/mtholahan/mysql-python-data-pipeline-mini-project) | 07/14/2025 |
 | PostgreSQL Tuning Mini Project | Optimized PostgreSQL queries on a computer science publications dataset. Created tables, ingested CSVs, and wrote queries to analyze conferences, authors, and publication trends. Improved performance by designing indexes, refining join/filter logic, and evaluating execution plans with EXPLAIN, demonstrating query tuning and indexing strategies. | [GitHub Repo](https://github.com/mtholahan/postgresql-tuning-mini-project) | 03/21/2025 |
@@ -83,5 +83,5 @@ The table below is auto-generated from my SQL Server progress tracker (`tblMiniP
 🧠 Ask me about boot camp time tracking, SQL optimization, or orchestration frameworks!
 
 <!-- FOOTER_START -->
-*Generated automatically via Python on 11-11-2025 18:23:50*
+*Generated automatically via Python on 02-24-2026 21:55:55*
 <!-- FOOTER_END -->
